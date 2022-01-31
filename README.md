@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wa8pmg5inpe8s1kg/branch/main?svg=true)](https://ci.appveyor.com/project/PolinaVylizhanina/ajs-opp-classes/branch/main)
